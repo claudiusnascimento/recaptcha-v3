@@ -3,6 +3,9 @@
     "description": "Simple implementation of Google Recpatcha V3. Suport multiple forms in same page",
     "type": "library",
     "license": "MIT",
+    "require": {
+        "php": ">=5.4.0"
+    },
     "authors": [
         {
             "name": "Claudius Nascimento",
