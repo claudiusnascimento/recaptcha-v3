@@ -1,0 +1,19 @@
+{
+    "name": "claudiusnascimento/recaptcha-v3",
+    "description": "Simple implementation of Google Recpatcha V3. Suport multiple forms in same page",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Claudius Nascimento",
+            "email": "cau@claudiusnascimento.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "ClaudiusNascimento\\RecaptchaV3\\": "src/"
+        }
+    }
+}

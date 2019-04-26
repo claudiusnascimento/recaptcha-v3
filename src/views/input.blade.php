@@ -1,0 +1,1 @@
+<input type="hidden" data-action="{!! $action !!}" name="recaptcha">
