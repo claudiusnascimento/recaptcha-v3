@@ -13,8 +13,6 @@
         }
     ],
     "version": "1.0.0",
-    "minimum-stability": "dev",
-    "prefer-stable": true,
     "autoload": {
         "psr-0": {
             "ClaudiusNascimento\\RecaptchaV3\\": "src/"
