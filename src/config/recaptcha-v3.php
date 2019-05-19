@@ -2,9 +2,9 @@
 
 return [
 	
-    'site_key' => '6Lco7Z0UAAAAAMjcjkY9n2YZXoYjVjfKCSS5aFDo',
+    'site_key' => env('SITE_KEY', ''),
     
-    'secret_key' => '6Lco7Z0UAAAAAB9cTYMeilRqmiGleOcD-fArB9cx',
+    'secret_key' => env('SITE_KEY', ''),
 
     'defaults' => [
 
