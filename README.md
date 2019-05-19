@@ -1,4 +1,4 @@
-#### Simple implementation of Google Recpatcha V3 to use in Laravel. Suport multiple forms in same page
+#### Simple implementation of Google Recpatcha V3 to use in Laravel. Support multiple forms in same page
 
 ### How to use:
 
