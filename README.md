@@ -52,7 +52,7 @@ Before closing tag ```</body>```tag put:
 'g-recaptcha-response' => 'required|recaptcha'
 ```
 
-... and you good to go!
+... and you good to go :)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
