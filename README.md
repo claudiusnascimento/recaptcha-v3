@@ -2,7 +2,7 @@
 
 ### How to use:
 
-#### Require de package
+#### Require the package
 ```sh
 $ composer require claudiusnascimento/recaptcha-v3
 ```
@@ -23,19 +23,19 @@ ClaudiusNascimento\RecaptchaV3\RecaptchaV3ServiceProvider::class
 
 
 
-### After that add the site_key and secret_key in your ENV file
+### After that, add the site_key and secret_key in your ENV file
 
 ```env
 RECAPTCHA_V3_SITE_KEY=<your site key>
 RECAPTCHA_V3_SECRET_KEY=<your config key>
 ```
 
-### Publish the config file for more control (if you want you)
+### Publish the config file for more control (if you want too)
 ```sh
 $ php artisan vendor:publish --provider="ClaudiusNascimento\RecaptchaV3\RecaptchaV3ServiceProvider" --tag="config"
 ```
 
-## Frontend
+## Front-end
 Inside the ```<form></form>``` tags add the following code:
 
 ```
